@@ -1,0 +1,7 @@
+Flask==2.2.2
+Flask-WTF==1.0.0
+Flask-SQLAlchemy==2.5.1
+Psycopg2==2.9.3
+Pandas==1.4.2
+Plotly==5.10.0
+python-dotenv==0.19.2
